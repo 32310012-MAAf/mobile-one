@@ -1,2 +1,8 @@
-# mobile-one
-mobile application's first project
+# mobile-one 
+by Mohammad Abd Alfattah - 32310012
+
+## Description
+
+simple currency conversion app coded in `dart` and `flutter`
+
+## Screenshot Of UI
